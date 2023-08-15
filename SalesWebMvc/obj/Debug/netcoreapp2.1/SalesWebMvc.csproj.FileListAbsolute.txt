@@ -44,3 +44,4 @@ C:\Users\heros\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razo
 C:\Users\heros\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Details.cshtml.g.cs
 C:\Users\heros\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Edit.cshtml.g.cs
 C:\Users\heros\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\Users\heros\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
